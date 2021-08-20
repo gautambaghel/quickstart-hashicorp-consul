@@ -2,11 +2,11 @@
 === Launch into an existing VPC
 include::quickstart-hashicorp-consul.template.adoc[]
 
-=== Launch into an existing VPC
-include::quickstart-hashicorp-consul.adoc[]
-
 === Launch into a new VPC
 include::quickstart-hashicorp-consul-master.template.adoc[]
+
+=== Launch into an existing VPC
+include::quickstart-hashicorp-consul.adoc[]
 
 === Launch into a new VPC
 include::quickstart-hashicorp-consul-master.adoc[]
